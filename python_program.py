@@ -1,4 +1,4 @@
-#program to just implement unit testing
+#python program to just implement unit testing
 
 def cal_square(num):
     return num**2
